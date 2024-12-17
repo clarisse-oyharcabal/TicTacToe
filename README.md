@@ -9,7 +9,7 @@ Réinitilisation de la grille.
 
 Bot facile et moyen.
 
-Algorithme minimax pour le bot difficile en cours. 
+Algorithme minimax pour le bot difficile en cours de développement. 
 
 Ajout d'emojis pour rendre plus agréable la surface de jeu sur le terminal.
 
