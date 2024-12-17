@@ -1,5 +1,5 @@
 # TicTacToe
-Projet de création d'un jeu type Morpion (Tic-Tac-Toe) avec Python (terminal)
+Projet de création d'un jeu type Morpion (Tic-Tac-Toe) avec Python (terminal).
 
 Divers choix : le nom du joueur, le choix du symbole, le choix de la difficulté, qui commence ?
 
