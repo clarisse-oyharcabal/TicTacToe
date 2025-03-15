@@ -70,10 +70,10 @@ Prompts the player to ask if they want to play again after the game ends.
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/clarisse-oyharcabal/TicTacToe.git
 2. Navigate to the project directory:
    ```bash
-   cd tic-tac-toe
+   cd TicTacToe
 4. Run the Python script:
    ```bash
-   python tic_tac_toe.py
+   python tic-tac-toe.py
