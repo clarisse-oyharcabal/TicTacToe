@@ -72,6 +72,8 @@ Prompts the player to ask if they want to play again after the game ends.
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
 2. Navigate to the project directory:
+   ```bash
    cd tic-tac-toe
-3. Run the Python script:
+4. Run the Python script:
+   ```bash
    python tic_tac_toe.py
